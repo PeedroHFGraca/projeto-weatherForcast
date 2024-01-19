@@ -51,7 +51,7 @@ document.querySelector('#search').addEventListener('submit', async (event) => { 
         document.querySelector('#weather').classList.remove('show'); // Remover quando não haver nenhuma cidade com o nome digitado
 
         showAlert(`<p>Não foi possível localizar...</p>
-            <img src="src/img/location_search.svg"/>
+            <img src="src/img/location_search2.png"/>
         `)
         // Se o campo não estiver dessa forma "Status Code: 200 OK", a API não está funcionado corretamente! 
     }
