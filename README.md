@@ -1,9 +1,9 @@
 <p style="text-align: center">
-        <img alt="projeto weatherForcast" src="projeto.png" width="100%">
+        <img alt="projeto weatherForecast" src="projeto.png" width="100%">
 </p>
 
 
-## 💻 Projeto WeatherForcast
+## 💻 Projeto WeatherForecast
 Aplicação de clima | Integração com a API OpenWeather
 - Busque por alguma cidade para verificar informações sobre o clima *ATUAL* 
 
