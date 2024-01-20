@@ -54,7 +54,7 @@ body {
 }
 
 #weather.show {
-    display: none;
+    display: block;
 }
 
 #weather #title {
