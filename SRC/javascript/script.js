@@ -7,7 +7,7 @@ document.querySelector('#search').addEventListener('submit', async (event) => { 
     const cityName = document.querySelector('#city_name').value;
 
     if(!cityName) { // Se não for digitado nenhum valor...
-        document.querySelector('#weather').classList.add('show'); // quando for informado a cidade, mostrará os dados
+        document.querySelector('#weather').classList.remove('show'); // Remover quando não haver nenhuma cidade com o nome digitado
         showAlert('Informe sua Cidade!')
         return;
     }
