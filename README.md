@@ -9,7 +9,7 @@ Aplicação de clima | Integração com a API OpenWeather
 
 
 ## 🚀 Tecnologias
-Esse projeto foi desenvolvido com as seguintes tecnologoias:
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML5 e CSS3
 - JS 
